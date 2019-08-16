@@ -49,10 +49,10 @@ March 2019
 - Test flights of UAS with 3D printed dummy sensors
 
 April 2019
-- First flight in field area
+- First flight in field area, variation in albedo was observed laterally and at different altitudes.
 
 May 2019
-- Second flight in field area
+- Second flight in field area, measuring albedo over Landsat 7 grid cells. Variation in UAS albedo measurements within single Landsat 7 grid cells was observed.
 
 Summer 2019
 - Writeup and presentation
