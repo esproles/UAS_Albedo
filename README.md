@@ -1,7 +1,5 @@
 # Bridging the Scaling Gaps in Earth Observations with UAS 
 
-<img src="https://www.esipfed.org/wp-content/uploads/2018/12/esip-transparent-background-768x393.png" width="131">
-
 ## Project overview
 The seasonal accumulation and melt of snow is a critical cycle that sustains life in the mountain-west.
 The albedo, or reflectance of snow is a metric used in hydrology models to quantify water
